@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+  "server": {ArvMCPL} 
+    "ip": "ArvMCPL.aternos.me",
+    "port": 57509,
     "version": "1.21.1"
   },
   "position": {
